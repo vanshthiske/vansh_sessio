@@ -1,1 +1,1 @@
-# vansh_sessio
+# MachineLearning_sessions
